@@ -31,7 +31,7 @@
 ### Tools and Platforms  
 - 🔧 **Version Control**: Git, GitHub, Sourcetree.  
 - 🛠️ **Other Tools**: Netcode, Zenject (Dependency Injection), DoTween.  
-- 📱 **Game Development**: Proficient in creating Android, WebGL and Windows games.
+- 📱 **Platforms**: Proficient in creating Android, WebGL and Windows games.
 
 ---
 
